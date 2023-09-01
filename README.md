@@ -14,7 +14,7 @@ Features: <br>
   src="Conduit Layer - Ground Floor.jpg"
   alt="Alt text"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 500px; height: 500px">
 
   <br>
   
@@ -22,6 +22,6 @@ Features: <br>
   src="Conduit Layer - Typical Floor.jpg"
   alt="Alt text"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 500px; height: 500px">
 
   <br>
