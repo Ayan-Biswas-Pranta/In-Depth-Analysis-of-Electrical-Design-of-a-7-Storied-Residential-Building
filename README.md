@@ -3,8 +3,10 @@
 Features: <br>
 <ul>
   <li> Floor Plans </li> 
-  <li> Battery backup </li>
-  <li> Security features </li> <br>
+  <li> Appliances fitting and fixture layout </li>
+  <li> Conduit and power socket layout </li> 
+  <li> Conduit, network and power socket layout </li>
+  <li> </li><br>
   </ul>
 <br>
 
