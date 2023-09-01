@@ -10,3 +10,18 @@ Features: <br>
   </ul>
 <br>
 
+<img
+  src="Conduit Layer - Ground Floor.jpg"
+  alt="Alt text"
+  title="EVM"
+  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+
+  <br>
+  
+  <img
+  src="Conduit Layer - Typical Floor.jpg"
+  alt="Alt text"
+  title="EVM"
+  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+
+  <br>
