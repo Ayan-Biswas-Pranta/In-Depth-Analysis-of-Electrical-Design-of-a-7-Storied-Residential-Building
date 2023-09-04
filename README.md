@@ -1,4 +1,4 @@
-# In-Depth-Analysis-of-Electrical-Design-of-a-7-Storied-Residential-Building
+# Electrical Service Design of a 7 Storied Residential Building
 <br>
 Features: <br>
 <ul>
